@@ -1,0 +1,4 @@
+<p>qr-website works!</p>
+
+<qrcode class="qr"  elementType="img" (qrCodeURL)="onCodeChange($event)" [width]="400" qrdata="www.penske.com" [errorCorrectionLevel]="'H'"></qrcode>
+<button class="button"> <a [href]="url" download="penskeQR">Download QR code</a> </button>

@@ -1,0 +1,27 @@
+.driver{
+    font-size: 60px;
+    margin-left: 264px;
+    height: -100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+    font-weight: bolder;
+}
+
+.appButton{
+
+    margin:0px;
+   
+    padding:4px ;
+   
+    width:150px;
+   
+    background-color: crimson;
+    color:azure;
+    border: 1px solid;
+   
+    cursor:pointer;
+    margin-left: 0%;
+    border-radius: 50px;
+   
+   
+   }
